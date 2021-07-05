@@ -9,7 +9,7 @@ h1 {
 .orange-color {
   color: orange;
 }
-section {
+.flexible-container {
   display: flex;
   margin-bottom: 10%;
 }
@@ -33,7 +33,7 @@ section {
   background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
 }
-.mid-banner {
+.drim-big {
   background-image: url(images/dream-bg.png);
   background-repeat: no-repeat;
   background-position-x: right;
